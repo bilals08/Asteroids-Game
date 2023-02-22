@@ -3,13 +3,13 @@
 This is a classic arcade-style game built using OpenGL, C++, and GLUT libraries, in which the player controls a spaceship that must navigate through an asteroid field while shooting and avoiding obstacles.
 
 ## Table of Contents
-* [Features](#1)
+* [Features](#Features)
 * [Gameplay](2)
 * [Requirements](3)
 * [Entry Point](4)
 * [Contributing](5)
 
-### [Features]{#1}
+### [Features]
 * Cross-platform support
 * 2D top-down view
 * Randomly generated asteroids(small, medium,large)
