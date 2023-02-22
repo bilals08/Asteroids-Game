@@ -6,7 +6,7 @@ This is a classic arcade-style game built using OpenGL, C++, and GLUT libraries,
 * [Features](#Features)
 * [Gameplay](#Gameplay)
 * [Requirements](#Requirements)
-* [Entry Point](#Entry Point)
+* [Entry Point](#EntryPoint)
 * [Contributing](#Contributing)
 
 ### Features
@@ -28,7 +28,7 @@ The graphics and sound in the game are designed to provide a fun and challenging
 * C++
 * Glut
 
-### Entry Point
+### EntryPoint
  game.cpp
 
 ### Contributing
