@@ -9,7 +9,7 @@ This is a classic arcade-style game built using OpenGL, C++, and GLUT libraries,
 * [Entry Point](4)
 * [Contributing](5)
 
-### [Features](#1)
+### [Features]{#1}
 * Cross-platform support
 * 2D top-down view
 * Randomly generated asteroids(small, medium,large)
